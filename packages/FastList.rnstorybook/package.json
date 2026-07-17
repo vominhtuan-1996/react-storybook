@@ -1,0 +1,12 @@
+{
+  "name": "@rnstorybook/fast-list",
+  "version": "0.1.0",
+  "description": "FastList component for RN Storybook Hub",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "keywords": ["rnstorybook", "fast-list"]
+}

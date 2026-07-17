@@ -1,0 +1,12 @@
+{
+  "name": "@rnstorybook/radio-group",
+  "version": "0.1.0",
+  "description": "RadioGroup component for RN Storybook Hub",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "keywords": ["rnstorybook", "radio-group"]
+}

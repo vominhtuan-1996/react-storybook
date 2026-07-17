@@ -1,0 +1,12 @@
+{
+  "name": "@rnstorybook/scroll-view",
+  "version": "0.1.0",
+  "description": "ScrollView component for RN Storybook Hub",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "keywords": ["rnstorybook", "scroll-view"]
+}

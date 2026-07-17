@@ -1,0 +1,9 @@
+{
+  "name": "Checkbox",
+  "packageName": "@rnstorybook/checkbox",
+  "version": "0.1.0",
+  "description": "Checkbox with checked/unchecked/indeterminate/disabled/error states, animated check glyph, and focus ring.",
+  "tags": ["checkbox", "form", "toggle"],
+  "category": "Inputs",
+  "preview": "assets/preview.png"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Snackbar",
+  "packageName": "@rnstorybook/snackbar",
+  "version": "0.1.0",
+  "description": "Queued toast notifications with success/error variants, undo actions, and safe-area aware stacking.",
+  "tags": ["toast", "notification", "feedback", "queue"],
+  "category": "feedback",
+  "preview": "assets/preview.png"
+}

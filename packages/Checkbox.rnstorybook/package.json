@@ -1,0 +1,12 @@
+{
+  "name": "@rnstorybook/checkbox",
+  "version": "0.1.0",
+  "description": "Checkbox component for RN Storybook Hub",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "keywords": ["rnstorybook", "checkbox"]
+}

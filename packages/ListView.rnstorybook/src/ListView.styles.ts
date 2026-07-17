@@ -1,0 +1,148 @@
+import { StyleSheet } from 'react-native';
+
+export const colors = {
+  bg: '#020617',
+  border: '#1E293B',
+  headerBg: '#0F172A',
+  count: '#64748B',
+  refreshIcon: '#94A3B8',
+  refreshPressed: '#1E293B',
+  skeletonAvatar: '#1E293B',
+  skeletonLine: '#1E293B',
+  errorIconBg: 'rgba(239, 68, 68, 0.1)',
+  errorIcon: '#F87171',
+  errorTitle: '#E2E8F0',
+  errorBody: '#64748B',
+  retryText: '#34D399',
+  emptyIconBg: '#1E293B',
+  emptyIcon: '#64748B',
+  emptyTitle: '#E2E8F0',
+  emptyBody: '#64748B',
+  footerText: '#64748B',
+  loadMoreErrorText: '#F87171',
+  endText: '#475569',
+};
+
+export const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: colors.bg,
+  },
+  header: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    borderBottomWidth: 1,
+    borderBottomColor: colors.border,
+    backgroundColor: colors.headerBg,
+    paddingHorizontal: 16,
+    paddingVertical: 10,
+  },
+  count: {
+    fontSize: 12,
+    fontWeight: '500',
+    color: colors.count,
+  },
+  refreshButton: {
+    height: 44,
+    width: 44,
+    marginVertical: -10,
+    marginRight: -10,
+    alignItems: 'center',
+    justifyContent: 'center',
+    borderRadius: 8,
+  },
+  refreshButtonPressed: {
+    backgroundColor: colors.refreshPressed,
+  },
+  separator: {
+    height: 1,
+    backgroundColor: colors.border,
+  },
+  skeletonRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 12,
+    paddingHorizontal: 16,
+    paddingVertical: 16,
+  },
+  skeletonAvatar: {
+    height: 40,
+    width: 40,
+    borderRadius: 20,
+    backgroundColor: colors.skeletonAvatar,
+  },
+  skeletonLine: {
+    height: 12,
+    borderRadius: 6,
+    backgroundColor: colors.skeletonLine,
+  },
+  centerState: {
+    alignItems: 'center',
+    gap: 8,
+    paddingHorizontal: 24,
+    paddingVertical: 64,
+  },
+  iconBadge: {
+    height: 48,
+    width: 48,
+    borderRadius: 24,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  stateTitle: {
+    fontSize: 14,
+    fontWeight: '600',
+    color: colors.errorTitle,
+  },
+  stateBody: {
+    maxWidth: 260,
+    textAlign: 'center',
+    fontSize: 13,
+    lineHeight: 18,
+    color: colors.errorBody,
+  },
+  retryButton: {
+    marginTop: 4,
+    height: 36,
+    paddingHorizontal: 16,
+    borderRadius: 8,
+    borderWidth: 1,
+    borderColor: colors.border,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  retryButtonText: {
+    fontSize: 13,
+    fontWeight: '600',
+    color: colors.errorTitle,
+  },
+  footer: {
+    alignItems: 'center',
+    justifyContent: 'center',
+    paddingVertical: 20,
+    gap: 6,
+  },
+  footerRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 8,
+  },
+  footerText: {
+    fontSize: 12,
+    color: colors.footerText,
+  },
+  loadMoreErrorText: {
+    fontSize: 12,
+    color: colors.loadMoreErrorText,
+  },
+  retryLinkText: {
+    fontSize: 12,
+    fontWeight: '600',
+    color: colors.retryText,
+  },
+  endText: {
+    fontSize: 12,
+    color: colors.endText,
+  },
+});

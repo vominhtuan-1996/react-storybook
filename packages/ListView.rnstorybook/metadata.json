@@ -1,0 +1,9 @@
+{
+  "name": "ListView",
+  "packageName": "@rnstorybook/list-view",
+  "version": "0.1.0",
+  "description": "FlatList wrapper with loading/error/empty/success states, pull-to-refresh, and infinite scroll load-more.",
+  "tags": ["list", "flatlist", "pagination", "refresh", "infinite-scroll"],
+  "category": "Layout",
+  "preview": "assets/preview.png"
+}

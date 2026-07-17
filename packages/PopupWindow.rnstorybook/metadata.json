@@ -1,0 +1,9 @@
+{
+  "name": "PopupWindow",
+  "packageName": "@rnstorybook/popup-window",
+  "version": "0.1.0",
+  "description": "Anchored popup/menu panel with auto-flip positioning, outside-tap dismiss, and disabled trigger support.",
+  "tags": ["popup", "popover", "menu", "dropdown", "anchor"],
+  "category": "Overlays",
+  "preview": "assets/preview.png"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "SegmentedControl",
+  "packageName": "@rnstorybook/segmented-control",
+  "version": "0.1.0",
+  "description": "iOS-style segmented control with animated sliding indicator, per-segment disable, and keyboard/roving-focus navigation.",
+  "tags": ["segment", "tabs", "toggle", "radiogroup"],
+  "category": "Inputs",
+  "preview": "assets/preview.png"
+}

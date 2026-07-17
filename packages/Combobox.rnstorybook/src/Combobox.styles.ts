@@ -1,0 +1,133 @@
+import { StyleSheet } from 'react-native';
+
+export const colors = {
+  label: '#E2E8F0',
+  fieldBg: '#020617',
+  border: '#334155',
+  borderOpen: '#34D399',
+  borderError: '#EF4444',
+  text: '#F1F5F9',
+  placeholder: '#64748B',
+  helperDefault: '#64748B',
+  helperError: '#F87171',
+  chevron: '#64748B',
+  clearIcon: '#94A3B8',
+  backdrop: 'rgba(2, 6, 23, 0.7)',
+  sheetBg: '#0F172A',
+  sheetBorder: '#1E293B',
+  searchBg: '#020617',
+  optionText: '#CBD5E1',
+  optionTextDisabled: '#475569',
+  optionHighlightBg: '#1E293B',
+  optionSelectedIcon: '#34D399',
+  emptyText: '#64748B',
+};
+
+export const styles = StyleSheet.create({
+  container: {
+    width: '100%',
+  },
+  label: {
+    marginBottom: 6,
+    fontSize: 14,
+    fontWeight: '500',
+    color: colors.label,
+  },
+  field: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    height: 44,
+    borderRadius: 10,
+    borderWidth: 1,
+    borderColor: colors.border,
+    backgroundColor: colors.fieldBg,
+    paddingHorizontal: 12,
+    gap: 8,
+  },
+  fieldError: {
+    borderColor: colors.borderError,
+  },
+  fieldDisabled: {
+    opacity: 0.5,
+  },
+  fieldText: {
+    flex: 1,
+    fontSize: 15,
+  },
+  helperText: {
+    marginTop: 6,
+    fontSize: 12,
+    lineHeight: 16,
+  },
+  clearButton: {
+    height: 32,
+    width: 32,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  backdrop: {
+    flex: 1,
+    backgroundColor: colors.backdrop,
+    justifyContent: 'flex-end',
+  },
+  sheet: {
+    maxHeight: '75%',
+    borderTopLeftRadius: 16,
+    borderTopRightRadius: 16,
+    borderWidth: 1,
+    borderColor: colors.sheetBorder,
+    backgroundColor: colors.sheetBg,
+    paddingBottom: 24,
+  },
+  sheetHeader: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    paddingHorizontal: 16,
+    paddingTop: 16,
+    paddingBottom: 12,
+  },
+  sheetTitle: {
+    fontSize: 16,
+    fontWeight: '600',
+    color: colors.label,
+  },
+  closeButton: {
+    height: 32,
+    width: 32,
+    alignItems: 'center',
+    justifyContent: 'center',
+    borderRadius: 16,
+  },
+  searchInput: {
+    marginHorizontal: 16,
+    marginBottom: 8,
+    height: 44,
+    borderRadius: 10,
+    borderWidth: 1,
+    borderColor: colors.border,
+    backgroundColor: colors.searchBg,
+    paddingHorizontal: 12,
+    fontSize: 15,
+    color: colors.text,
+  },
+  option: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    paddingHorizontal: 16,
+    paddingVertical: 12,
+    gap: 8,
+  },
+  optionHighlighted: {
+    backgroundColor: colors.optionHighlightBg,
+  },
+  optionText: {
+    flex: 1,
+    fontSize: 15,
+  },
+  emptyState: {
+    paddingVertical: 32,
+    alignItems: 'center',
+  },
+});

@@ -1,0 +1,9 @@
+{
+  "name": "RadioGroup",
+  "packageName": "@rnstorybook/radio-group",
+  "version": "0.1.0",
+  "description": "Single-select radio group with per-option disable, animated dot, focus ring, and group-level error state.",
+  "tags": ["radio", "form", "toggle", "radiogroup"],
+  "category": "Inputs",
+  "preview": "assets/preview.png"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "TableView",
+  "packageName": "@rnstorybook/table-view",
+  "version": "0.1.0",
+  "description": "Sortable data table with selectable/pressable rows, loading skeleton, error/retry, and empty states.",
+  "tags": ["table", "data", "sort", "list"],
+  "category": "Layout",
+  "preview": "assets/preview.png"
+}

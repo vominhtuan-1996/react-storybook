@@ -1,0 +1,12 @@
+{
+  "name": "@rnstorybook/popup-window",
+  "version": "0.1.0",
+  "description": "PopupWindow component for RN Storybook Hub",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "keywords": ["rnstorybook", "popup-window"]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Switch",
+  "packageName": "@rnstorybook/switch",
+  "version": "0.1.0",
+  "description": "Toggle switch with off/on/disabled/loading/error states and animated thumb.",
+  "tags": ["switch", "toggle", "form"],
+  "category": "Inputs",
+  "preview": "assets/preview.png"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Combobox",
+  "packageName": "@rnstorybook/combobox",
+  "version": "0.1.0",
+  "description": "Searchable select field with filter, disabled/loading/error/empty states, and a bottom-sheet option list.",
+  "tags": ["combobox", "select", "search", "dropdown", "form"],
+  "category": "Inputs",
+  "preview": "assets/preview.png"
+}

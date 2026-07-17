@@ -1,0 +1,9 @@
+{
+  "name": "SearchBar",
+  "packageName": "@rnstorybook/search-bar",
+  "version": "0.1.0",
+  "description": "Debounced search input with suggestion list, loading/empty/error/disabled states, and clear button.",
+  "tags": ["search", "input", "autocomplete", "form"],
+  "category": "Inputs",
+  "preview": "assets/preview.png"
+}

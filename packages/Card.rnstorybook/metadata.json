@@ -1,0 +1,9 @@
+{
+  "name": "Card",
+  "packageName": "@rnstorybook/card",
+  "version": "0.1.0",
+  "description": "Polymorphic content card (static/pressable) with elevated/outlined/flat variants, press/focus/selected/disabled/loading states.",
+  "tags": ["card", "container", "layout", "press-feedback"],
+  "category": "Layout",
+  "preview": "assets/preview.png"
+}

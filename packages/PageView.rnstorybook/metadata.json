@@ -1,0 +1,9 @@
+{
+  "name": "PageView",
+  "packageName": "@rnstorybook/page-view",
+  "version": "0.1.0",
+  "description": "Swipeable paginated container with slide/fade/scale transitions, dots, arrows, and rubber-band boundaries.",
+  "tags": ["pagination", "carousel", "pager", "gesture"],
+  "category": "Layout",
+  "preview": "assets/preview.png"
+}

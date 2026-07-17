@@ -1,0 +1,9 @@
+{
+  "name": "Stack",
+  "packageName": "@rnstorybook/stack",
+  "version": "0.1.0",
+  "description": "Flexbox layout primitive for arranging children in a row or column with spacing, alignment, wrap, and optional dividers.",
+  "tags": ["layout", "flexbox", "spacing", "divider"],
+  "category": "Layout",
+  "preview": "assets/preview.png"
+}

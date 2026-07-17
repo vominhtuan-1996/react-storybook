@@ -1,0 +1,9 @@
+{
+  "name": "Expand",
+  "packageName": "@rnstorybook/expand",
+  "version": "0.1.0",
+  "description": "Collapsible panel with animated height transition, controlled/uncontrolled open state, and disabled support.",
+  "tags": ["accordion", "collapse", "expand", "disclosure"],
+  "category": "Layout",
+  "preview": "assets/preview.png"
+}

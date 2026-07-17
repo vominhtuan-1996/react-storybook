@@ -1,0 +1,9 @@
+{
+  "name": "GridView",
+  "packageName": "@rnstorybook/grid-view",
+  "version": "0.1.0",
+  "description": "Responsive grid list (2/3/4 columns) with loading skeleton, error/retry, and empty states.",
+  "tags": ["grid", "list", "gallery", "layout"],
+  "category": "Layout",
+  "preview": "assets/preview.png"
+}

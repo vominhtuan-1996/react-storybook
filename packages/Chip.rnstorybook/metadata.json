@@ -1,0 +1,9 @@
+{
+  "name": "Chip",
+  "packageName": "@rnstorybook/chip",
+  "version": "0.1.0",
+  "description": "Filled/outlined chip with selectable, removable, and disabled states.",
+  "tags": ["chip", "tag", "filter", "selection"],
+  "category": "Inputs",
+  "preview": "assets/preview.png"
+}

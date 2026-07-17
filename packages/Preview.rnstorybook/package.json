@@ -1,0 +1,12 @@
+{
+  "name": "@rnstorybook/preview",
+  "version": "0.1.0",
+  "description": "Preview component for RN Storybook Hub",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "keywords": ["rnstorybook", "preview"]
+}

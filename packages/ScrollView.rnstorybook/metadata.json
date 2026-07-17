@@ -1,0 +1,9 @@
+{
+  "name": "ScrollView",
+  "packageName": "@rnstorybook/scroll-view",
+  "version": "0.1.0",
+  "description": "Scroll container with top/bottom overflow shadows and an animated scroll-to-top button.",
+  "tags": ["scroll", "layout", "container"],
+  "category": "Layout",
+  "preview": "assets/preview.png"
+}

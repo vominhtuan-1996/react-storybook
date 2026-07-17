@@ -1,0 +1,12 @@
+{
+  "name": "@rnstorybook/switch",
+  "version": "0.1.0",
+  "description": "Switch component for RN Storybook Hub",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "keywords": ["rnstorybook", "switch"]
+}

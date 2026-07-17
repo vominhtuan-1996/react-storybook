@@ -1,0 +1,9 @@
+{
+  "name": "Dialog",
+  "packageName": "@rnstorybook/dialog",
+  "version": "0.1.0",
+  "description": "Accessible modal dialog with focus trap, backdrop dismiss, and Android back-button handling.",
+  "tags": ["modal", "overlay", "confirmation", "accessibility"],
+  "category": "feedback",
+  "preview": "assets/preview.png"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "TextField",
+  "packageName": "@rnstorybook/text-field",
+  "version": "0.1.0",
+  "description": "Labeled text input with error/success/disabled/read-only/password states and keyboard-avoidance animation.",
+  "tags": ["input", "form", "text-field", "keyboard-avoidance"],
+  "category": "Inputs",
+  "preview": "assets/preview.png"
+}

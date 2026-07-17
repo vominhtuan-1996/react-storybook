@@ -1,0 +1,9 @@
+{
+  "name": "Animation",
+  "packageName": "@rnstorybook/animation",
+  "version": "0.1.0",
+  "description": "Declarative enter/exit transition wrapper with fade/slide/scale/bounce variants, configurable cubic-bezier easing presets, and reduced-motion support.",
+  "tags": ["animation", "transition", "easing", "cubic-bezier", "motion"],
+  "category": "Utility",
+  "preview": "assets/preview.png"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Preview",
+  "packageName": "@rnstorybook/preview",
+  "version": "0.1.0",
+  "description": "Image preview box with loading skeleton, error/retry state, empty state, and tap-to-zoom fullscreen lightbox.",
+  "tags": ["image", "media", "zoom", "lightbox", "loading"],
+  "category": "Display",
+  "preview": "assets/preview.png"
+}

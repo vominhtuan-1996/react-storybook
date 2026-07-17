@@ -1,0 +1,12 @@
+{
+  "name": "@rnstorybook/tab-navigation",
+  "version": "0.1.0",
+  "description": "TabNavigation component for RN Storybook Hub",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "keywords": ["rnstorybook", "tab-navigation"]
+}

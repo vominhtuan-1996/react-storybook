@@ -1,0 +1,12 @@
+{
+  "name": "@rnstorybook/search-bar",
+  "version": "0.1.0",
+  "description": "SearchBar component for RN Storybook Hub",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "keywords": ["rnstorybook", "search-bar"]
+}

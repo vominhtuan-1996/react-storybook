@@ -1,0 +1,9 @@
+{
+  "name": "FastList",
+  "packageName": "@rnstorybook/fast-list",
+  "version": "0.1.0",
+  "description": "Virtualized fixed-height list for large datasets, with loading/error/empty states and getItemLayout-tuned scroll performance.",
+  "tags": ["list", "virtualized", "performance", "flatlist"],
+  "category": "Layout",
+  "preview": "assets/preview.png"
+}

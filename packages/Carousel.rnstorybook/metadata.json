@@ -1,0 +1,9 @@
+{
+  "name": "Carousel",
+  "packageName": "@rnstorybook/carousel",
+  "version": "0.1.0",
+  "description": "Autoplaying slide carousel with swipe paging, play/pause control, and dot navigation. Respects reduced motion.",
+  "tags": ["carousel", "slider", "autoplay", "swipe"],
+  "category": "Display",
+  "preview": "assets/preview.png"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "TabNavigation",
+  "packageName": "@rnstorybook/tab-navigation",
+  "version": "0.1.0",
+  "description": "Scrollable tab bar with animated underline indicator, badges, and disabled tab support.",
+  "tags": ["tabs", "navigation", "indicator", "badge"],
+  "category": "Navigation",
+  "preview": "assets/preview.png"
+}
